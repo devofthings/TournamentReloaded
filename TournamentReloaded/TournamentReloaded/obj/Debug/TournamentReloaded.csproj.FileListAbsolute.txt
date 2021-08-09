@@ -73,3 +73,4 @@ C:\Users\Raik\Documents\Workspace\Git\TournamentReloaded\TournamentReloaded\Tour
 C:\Users\Raik\Documents\Workspace\Git\TournamentReloaded\TournamentReloaded\TournamentReloaded\obj\Debug\TournamentReloaded.csproj.CopyComplete
 C:\Users\Raik\Documents\Workspace\Git\TournamentReloaded\TournamentReloaded\TournamentReloaded\obj\Debug\TournamentReloaded.dll
 C:\Users\Raik\Documents\Workspace\Git\TournamentReloaded\TournamentReloaded\TournamentReloaded\obj\Debug\TournamentReloaded.pdb
+C:\Users\Raik\Documents\Workspace\Git\TournamentReloaded\TournamentReloaded\TournamentReloaded\obj\Debug\TournamentReloaded.csproj.AssemblyReference.cache
